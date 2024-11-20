@@ -1,0 +1,9 @@
+mat-dialog-title {
+    color: #1976d2;
+  }
+  
+  mat-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
